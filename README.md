@@ -70,7 +70,7 @@
 
 ### Trovata — Desenvolvedor Mobile
 
-**Março de 2023 – Presente**
+**Março de 2024 – Presente**
 
 - Desenvolvimento e manutenção de aplicações multiplataforma utilizando **Kotlin Multiplatform (KMP)** e **Compose Multiplatform**.
 - Desenvolvimento de soluções para **Android, iOS e Desktop**, compartilhando código e regras de negócio entre plataformas.
@@ -86,24 +86,14 @@
 ### Trovata Offline
 
 Aplicação multiplataforma para **e-commerce B2B**, desenvolvida para otimizar processos comerciais e permitir a realização de vendas mesmo sem conexão com a internet.
-
 - **Plataformas:** Android, iOS e Desktop.
-- **Catálogo e pedidos:** consulta de produtos, organização de informações e gerenciamento de pedidos.
-- **Arquitetura offline-first:** acesso aos dados e continuidade das operações em ambientes sem conectividade.
-- **Persistência e sincronização:** armazenamento local para manter informações acessíveis offline e dar suporte à sincronização dos dados.
-
-**Tecnologias:** Kotlin Multiplatform, Compose Multiplatform, SQLDelight, Ktor e Koin.
 
 ### Trovata Siena
 
 Aplicação multiplataforma voltada para **vendas em eventos comerciais e showrooms**, facilitando o atendimento e a comercialização de produtos.
-
 - **Plataformas:** Android, iOS e Desktop.
-- **Gestão de vendas:** recursos para consulta de produtos, atendimento a clientes e registro de pedidos.
-- **Agilidade operacional:** otimização do fluxo de atendimento durante eventos comerciais.
-- **Organização comercial:** suporte aos processos de venda e gerenciamento dos pedidos realizados em eventos e showrooms.
 
-**Tecnologias:** Kotlin Multiplatform (KMP) e Compose Multiplatform.
+**Tecnologias:** Kotlin Multiplatform, Compose Multiplatform, SQLDelight, Ktor e Koin.
 
 ---
 
@@ -169,7 +159,7 @@ Solução composta por uma aplicação mobile e uma API para gerenciamento de pr
 ## 📬 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com//in/guilherme-fagundes-7a57b3319/" target="_blank">
+  <a href="https://www.linkedin.com//in/guilherme-fagundes-7a57b3319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:guilhermeap.067@gmail.com">
